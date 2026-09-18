@@ -2,18 +2,6 @@
 
 Agent skill compiling [100 Daily Solana Tips](https://accretion.xyz/blog/100-solana-tips) by Accretion Labs.
 
-## Structure
-
-[SKILL.md](SKILL.md)  
-references/  
-├── [program-design.md](references/program-design.md)  
-├── [accounts.md](references/accounts.md)  
-├── [security.md](references/security.md)  
-├── [tokens-math.md](references/tokens-math.md)  
-├── [runtime.md](references/runtime.md)  
-├── [ops-testing.md](references/ops-testing.md)  
-└── [checklist.md](references/checklist.md)
-
 ## Install
 
 Install it with `npx skills add ChiefWoods/accretion-solana-tips`.
